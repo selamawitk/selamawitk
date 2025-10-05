@@ -70,12 +70,4 @@ UI/UX Design • RESTful APIs • State Management • Microservices Architectur
 
 ---
 
-### 🔧 Tips to Use / Customize  
-
-- Adjust the `i=` sections in Skills icons to exactly match tech you want.  
-- You can reorder or hide some categories.  
-- Add more shields/badges (certificates, languages) with Shields.io if desired.  
-- Make sample project titles clickable to their repos or live demos.
-
----
 
