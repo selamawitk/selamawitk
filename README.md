@@ -26,7 +26,7 @@
 ## 💻 Tech Stack & Skills  
 
 **Languages:**  
-![Langs](https://skillicons.dev/icons?i=js,ts,python,sql,go,html,css,flutter,postgresql)  
+![Langs](https://skillicons.dev/icons?i=js,ts,python,go,html,css,flutter,postgresql)  
 
 **Frontend:**  
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter)  
@@ -53,7 +53,6 @@ UI/UX Design • RESTful APIs • State Management • Microservices Architectur
 | **UGR-9049-15-figma-prototype-portfolio-design** | Figma interface & prototype design | Visual design mockups & interaction |
 | **selamawitk-Assessment1** | UI-focused web assignment | Emphasis on usability, layout, consistency |
 
-*(Add clickable links to your GitHub repos or live demos.)*
 
 ---
 
