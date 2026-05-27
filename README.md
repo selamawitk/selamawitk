@@ -1,73 +1,134 @@
-<!-- ─── HEADER / INTRO ─────────────────────────────────────────────────────── -->
+<!-- ─── HEADER / INTRO ───────────────────────────────────────────────────── -->
 
 <div align="center">
-  <h1>👋 Hello, I’m Selamawit Kinetibeb</h1>
-  <p>Design-minded developer & aspiring Web Design Instructor</p>
+  <h1>👋 Hi, I'm Selamawit Kinetibeb</h1>
+  <p>
+    Full-Stack Engineer focused on SaaS platforms, AI systems, and real-time applications.
+  </p>
 </div>
 
 ---
 
-## 💫 About Me  
+# 💫 About Me
 
-- 🎓 Software Engineering student at Addis Ababa University  
-- 🎨 Passionate about UI/UX, visual storytelling, and web design  
-- 💡 I love turning ideas into elegant interfaces  
-- 🤝 Always open to collaborating on design + front-end + creative projects  
-
----
-
-## 🌐 Socials  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamawit-kinetibeb-69b301334)  
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selamawitkinetibeb@gmail.com)  
+* 🎓 Software Engineering student at Addis Ababa University (AI Specialization)
+* ⚙️ Building scalable SaaS systems, AI-powered workflows, and real-time platforms
+* 🧠 Interested in backend architecture, event-driven systems, and production reliability
+* 🚀 Enjoy working on products involving automation, payments, live updates, and multi-user systems
+* 🤝 Open to collaborating on SaaS, AI, backend, and full-stack projects
 
 ---
 
-## 💻 Tech Stack & Skills  
+# 🌐 Connect With Me
 
-**Languages:**  
-![Langs](https://skillicons.dev/icons?i=js,ts,python,go,html,css,flutter,postgresql)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/selamawit-kinetibeb-69b301334)
 
-**Frontend:**  
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter)  
-
-**Backend:**  
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,go)  
-
-**Databases:**  
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,prisma,postgresql)  
-
-**Tools / Infrastructure & APIs:**  
-![Tools](https://skillicons.dev/icons?i=docker,git,vscode,figma,postman)  
-
-**Other / Architectural & Design:**  
-UI/UX Design • RESTful APIs • State Management • Microservices Architecture  
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:selamawitkinetibeb@gmail.com)
 
 ---
 
-## 🚀 Featured Projects  
+# 💻 Tech Stack
 
-| Project | Description | Highlights |
-|---|---|---|
-| **sample-Portfolio** | My portfolio site | Clean, responsive design & UI showcase |
-| **UGR-9049-15-figma-prototype-portfolio-design** | Figma interface & prototype design | Visual design mockups & interaction |
-| **selamawitk-Assessment1** | UI-focused web assignment | Emphasis on usability, layout, consistency |
+## Languages
 
+![Languages](https://skillicons.dev/icons?i=js,ts,python,go,html,css,dart)
 
 ---
 
-## 📊 GitHub Stats  
+## Frontend & Mobile
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=selamawitk&show_icons=true&theme=dark" alt="GitHub Stats" />  
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter)
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Bootstrap
+* Flutter
+* Responsive UI Systems
+
+---
+
+## Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,go)
+
+* Node.js
+* NestJS
+* Express.js
+* Golang
+* REST APIs
+* Authentication & RBAC
+* Real-time Systems
+* WebSockets
+* Background Jobs & Queues
+
+---
+
+## Databases & Infrastructure
+
+![Database](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,prisma,docker,githubactions)
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Redis
+* Prisma ORM
+* Docker
+* GitHub Actions
+* CI/CD
+
+---
+
+## AI & Integrations
+
+* OpenAI API
+* LangChain
+* LangGraph
+* AI Agents
+* Payment Integrations (Stripe / Chapa)
+* Google APIs
+* Third-party API integrations
+
+---
+
+# 🚀 Featured Projects
+
+| Project        | Description                                           | Core Features                                     |
+| -------------- | ----------------------------------------------------- | ------------------------------------------------- |
+| **QuickBite**  | Real-time restaurant reservation & pre-order platform | Live reservations, payments, booking coordination |
+| **Sira-Voice** | AI-powered voice job assistant platform               | Voice workflows, AI processing, Chapa integration |
+| **ZeAlpha**    | Real-time wedding funding & contribution platform     | Group payments, real-time updates, SaaS workflows |
+
+---
+
+# 🧠 What I Enjoy Building
+
+* SaaS platforms
+* AI-powered automation systems
+* Real-time dashboards & live collaboration tools
+* Backend-heavy systems with clean architecture
+* Subscription & payment systems
+* Multi-user applications with scalable APIs
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" />
+
 </div>
 
 ---
 
-## ✍️ Quote  
+# ✍️ Philosophy
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+> “Favouring boring, predictable code over complex, unpredictable genius.”
 
 ---
-
-
