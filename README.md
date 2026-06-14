@@ -129,6 +129,6 @@
 
 # ✍️ Philosophy
 
-> “Favouring boring, predictable code over complex, unpredictable genius.”
+> *“Favouring boring, predictable code over complex, unpredictable genius.”*
 
 ---
