@@ -117,8 +117,8 @@
 
 <div align="center">
 
-<!-- Full-scope metrics card covering extensive lifetime commits, PRs, and reviews -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=selamawitk&theme=tokyonight" alt="Selamawit's GitHub Stats" />
+<!-- This card pulls your complete total contribution metric, counting private repository work -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
 
 <br/>
 
