@@ -21,9 +21,9 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/selamawit-kinetibeb-69b301334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamawit-kinetibeb-69b301334)
 
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:selamawitkinetibeb@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selamawitkinetibeb@gmail.com)
 
 ---
 
@@ -94,11 +94,11 @@
 
 # 🚀 Featured Projects
 
-| Project        | Description                                           | Core Features                                     |
+| Project        | Description                                            | Core Features                                     |
 | -------------- | ----------------------------------------------------- | ------------------------------------------------- |
-| **QuickBite**  | Real-time restaurant reservation & pre-order platform | Live reservations, payments, booking coordination |
+| **QuickBite** | Real-time restaurant reservation & pre-order platform | Live reservations, payments, booking coordination |
 | **Sira-Voice** | AI-powered voice job assistant platform               | Voice workflows, AI processing, Chapa integration |
-| **ZeAlpha**    | Real-time wedding funding & contribution platform     | Group payments, real-time updates, SaaS workflows |
+| **ZeAlpha** | Real-time wedding funding & contribution platform     | Group payments, real-time updates, SaaS workflows |
 
 ---
 
@@ -117,11 +117,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight" />
+<!-- Full-scope metrics card covering extensive lifetime commits, PRs, and reviews -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=selamawitk&theme=tokyonight" alt="Selamawit's GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" />
+<!-- Reliable Horizontal / Bar Language Chart -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
 
 </div>
 
