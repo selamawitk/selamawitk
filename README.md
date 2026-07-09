@@ -104,12 +104,12 @@
 
 # 🧠 What I Enjoy Building
 
-* SaaS platforms
-* AI-powered automation systems
-* Real-time dashboards & live collaboration tools
-* Backend-heavy systems with clean architecture
-* Subscription & payment systems
-* Multi-user applications with scalable APIs
+* SaaS platforms.
+* AI-powered automation systems.
+* Real-time dashboards & live collaboration tools.
+* Backend-heavy systems with clean architecture.
+* Subscription,booking & payment systems.
+* Multi-user applications with scalable APIs.
 
 ---
 
