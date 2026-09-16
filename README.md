@@ -21,7 +21,7 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamawit-kinetibeb-69b301334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selamawitkinetibeb@gmail.com)
 
@@ -38,8 +38,7 @@
 ## Frontend & Mobile
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter,mui,figma,sass,vite,html,css)
-
-* shadcn/ui
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
 
 ---
 
@@ -92,20 +91,23 @@
 
 <div align="center">
 
-  <!-- Total Commits, PRs, and Profile Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- GitHub Streak Card -->
+  <!-- 1st: GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selamawitk&theme=tokyonight&hide_border=false" alt="Selamawit's GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Top Languages Card -->
+  <!-- 2nd: Total Commits, PRs, and Profile Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- 3rd: Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
 
 </div>
+
+---
+
 
 ---
 
