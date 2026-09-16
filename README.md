@@ -117,13 +117,13 @@
 
 <div align="center">
 
-<!-- This card pulls your complete total contribution metric, counting private repository work -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
+<!-- Fixed GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
 
 <br/>
 
-<!-- Reliable Horizontal / Bar Language Chart -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
+<!-- Fixed Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
 
 </div>
 
@@ -132,5 +132,3 @@
 # ✍️ Philosophy
 
 > *“Favouring boring, predictable code over complex, unpredictable genius.”*
-
----
