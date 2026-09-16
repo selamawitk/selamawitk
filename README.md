@@ -12,10 +12,10 @@
 # 💫 About Me
 
 * 🎓 Software Engineering student at Addis Ababa University (AI Specialization)
-* ⚙️ Building scalable SaaS systems, AI-powered workflows, and real-time platforms
-* 🧠 Interested in backend architecture, event-driven systems, and production reliability
-* 🚀 Enjoy working on products involving automation, payments, live updates, and multi-user systems
-* 🤝 Open to collaborating on SaaS, AI, backend, and full-stack projects
+* ⚙️ Architecting resilient backend pipelines, event-driven workflows, and high-concurrency APIs
+* 🚀 Building production-ready SaaS applications with real-time sync and seamless payment integrations
+* 🧠 Deeply focused on distributed system reliability, clean architecture, and practical AI agents
+* 🤝 Open to technical collaborations on full-stack, AI, and scalable backend engineering projects
 
 ---
 
@@ -31,52 +31,27 @@
 
 ## Languages
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,go,html,css,dart)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,go,dotnet,html,css,dart)
 
 ---
 
 ## Frontend & Mobile
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter,mui,figma,sass,vite,html,css)
 
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Bootstrap
-* Flutter
-* Responsive UI Systems
+* shadcn/ui
 
 ---
 
 ## Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,go)
-
-* Node.js
-* NestJS
-* Express.js
-* Golang
-* REST APIs
-* Authentication & RBAC
-* Real-time Systems
-* WebSockets
-* Background Jobs & Queues
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,go,dotnet,spring,python)
 
 ---
 
 ## Databases & Infrastructure
 
-![Database](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,prisma,docker,githubactions)
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Redis
-* Prisma ORM
-* Docker
-* GitHub Actions
-* CI/CD
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker,githubactions,postman,git,github,gitlab,bitbucket,firebase,gcp,grafana)
 
 ---
 
@@ -108,7 +83,7 @@
 * AI-powered automation systems.
 * Real-time dashboards & live collaboration tools.
 * Backend-heavy systems with clean architecture.
-* Subscription,booking & payment systems.
+* Subscription, booking & payment systems.
 * Multi-user applications with scalable APIs.
 
 ---
@@ -117,17 +92,25 @@
 
 <div align="center">
 
-  <!-- Fixed GitHub Stats Card -->
+  <!-- Total Commits, PRs, and Profile Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
 
   <br/><br/>
 
-  <!-- Fixed Top Languages Card -->
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selamawitk&theme=tokyonight&hide_border=false" alt="Selamawit's GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
 
 </div>
+
 ---
 
 # ✍️ Philosophy
 
-> *“Favouring boring, predictable code over complex, unpredictable genius.”*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF8C00&center=true&vcenter=true&width=750&lines=%E2%80%9CFavouring+boring%2C+predictable+code%E2%80%9D;%E2%80%9Cover+complex%2C+unpredictable+genius.%E2%80%9D" alt="Philosophy Typing SVG" />
+</div>
