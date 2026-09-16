@@ -117,16 +117,15 @@
 
 <div align="center">
 
-<!-- Fixed GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
+  <!-- Fixed GitHub Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=selamawitk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Selamawit's GitHub Stats" />
 
-<br/>
+  <br/><br/>
 
-<!-- Fixed Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
+  <!-- Fixed Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=selamawitk&layout=compact&theme=tokyonight" alt="Selamawit's Top Languages" />
 
 </div>
-
 ---
 
 # ✍️ Philosophy
