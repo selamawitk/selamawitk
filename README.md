@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Selamawit Kinetibeb</h1>
   <p>
-    Full-Stack Engineer focused on SaaS platforms, AI systems, and real-time applications.
+    Full-Stack Engineer focused on SaaS platforms, AI systems, and real-time apps.
   </p>
 </div>
 
